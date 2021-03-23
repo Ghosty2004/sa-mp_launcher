@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eforce", "E_FORCE_LAUNCHER\eforce.csproj", "{58DAA333-35F6-4006-8FB1-C236885BFA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		eforce|Any CPU = eforce|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DAA333-35F6-4006-8FB1-C236885BFA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DAA333-35F6-4006-8FB1-C236885BFA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DAA333-35F6-4006-8FB1-C236885BFA10}.eforce|Any CPU.ActiveCfg = eforce|Any CPU
+		{58DAA333-35F6-4006-8FB1-C236885BFA10}.eforce|Any CPU.Build.0 = eforce|Any CPU
+		{58DAA333-35F6-4006-8FB1-C236885BFA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DAA333-35F6-4006-8FB1-C236885BFA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF46EB3B-491B-4EE6-944C-2A77B00850BC}
+	EndGlobalSection
+EndGlobal
