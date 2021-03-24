@@ -31,14 +31,14 @@ namespace E_FORCE_LAUNCHER
         // -> MYSQL Connect
         string connectionString = string.Format(
             "server={0};uid={1};pwd={2};database={3}",
-            "188.214.88.82",
-            "root",
-            "!#SSdEUqh4U3JZ@",
-            "eforce"
+            "sql_host",
+            "sql_user",
+            "sql_password",
+            "sql_database"
         );
 
-        string ftp_user = "essrocom";
-        string ftp_password = "iHq4as0K16";
+        string ftp_user = "ftp_user";
+        string ftp_password = "ftp_password";
         string ftp_download = "ftp://e-force.ro/public_html/launcher.e-force.ro/files/";
 
         int mov;
